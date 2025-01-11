@@ -1,2 +1,2 @@
-# imdb
-The project compares the performance of Django REST Framework and Graphene-Django using the IMDb movie database. APIs will be built in both frameworks to query and filter movie data. Key metrics like response time and scalability will be analyzed to assess their efficiency in handling data-intensive applications.
+# DRF vs Graphene-Django: IMDb Performance Benchmark
+The project aims to compare the performance of two popular Python frameworks: Django REST Framework (DRF) and Graphene-Django. Using the IMDb movie database as the data source, the project will implement APIs in both frameworks to handle operations like querying movie details, filtering, and searching. The performance metrics such as response time, scalability, and resource usage will be analyzed to determine the strengths and weaknesses of each framework in handling real-world data-intensive applications.
