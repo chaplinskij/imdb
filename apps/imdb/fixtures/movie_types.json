@@ -1,0 +1,98 @@
+[
+   {
+      "model":"imdb.movietype",
+      "pk":1,
+      "fields":{
+         "code":"no_type",
+         "title":"no_type"
+      }
+   },
+   {
+      "model":"imdb.movietype",
+      "pk":1,
+      "fields":{
+         "code":"movie",
+         "title":"Movie"
+      }
+   },
+   {
+      "model":"imdb.movietype",
+      "pk":2,
+      "fields":{
+         "code":"short",
+         "title":"Short"
+      }
+   },
+   {
+      "model":"imdb.movietype",
+      "pk":3,
+      "fields":{
+         "code":"video",
+         "title":"Video"
+      }
+   },
+   {
+      "model":"imdb.movietype",
+      "pk":4,
+      "fields":{
+         "code":"videoGame",
+         "title":"Video Game"
+      }
+   },
+   {
+      "model":"imdb.movietype",
+      "pk":5,
+      "fields":{
+         "code":"tvShort",
+         "title":"TV Short"
+      }
+   },
+   {
+      "model":"imdb.movietype",
+      "pk":6,
+      "fields":{
+         "code":"tvMovie",
+         "title":"TV Movie"
+      }
+   },
+   {
+      "model":"imdb.movietype",
+      "pk":7,
+      "fields":{
+         "code":"tvEpisode",
+         "title":"TV Episode"
+      }
+   },
+   {
+      "model":"imdb.movietype",
+      "pk":8,
+      "fields":{
+         "code":"tvSeries",
+         "title":"TV Series"
+      }
+   },
+   {
+      "model":"imdb.movietype",
+      "pk":9,
+      "fields":{
+         "code":"tvMiniSeries",
+         "title":"TV Mini Series"
+      }
+   },
+   {
+      "model":"imdb.movietype",
+      "pk":10,
+      "fields":{
+         "code":"tvSpecial",
+         "title":"TV Special"
+      }
+   },
+   {
+      "model":"imdb.movietype",
+      "pk":11,
+      "fields":{
+         "code":"tvPilot",
+         "title":"TV Pilot"
+      }
+   }
+]

@@ -1,0 +1,370 @@
+[
+    {
+        "model": "imdb.profession",
+        "pk": 1,
+        "fields": {
+            "code": "accountant",
+            "title": "Accountant"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 2,
+        "fields": {
+            "code": "actor",
+            "title": "Actor"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 3,
+        "fields": {
+            "code": "actress",
+            "title": "Actress"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 4,
+        "fields": {
+            "code": "animation_department",
+            "title": "Animation Department"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 5,
+        "fields": {
+            "code": "archive_footage",
+            "title": "Archive Footage"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 6,
+        "fields": {
+            "code": "archive_sound",
+            "title": "Archive Sound"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 7,
+        "fields": {
+            "code": "art_department",
+            "title": "Art Department"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 8,
+        "fields": {
+            "code": "art_director",
+            "title": "Art Director"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 9,
+        "fields": {
+            "code": "assistant",
+            "title": "Assistant"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 10,
+        "fields": {
+            "code": "assistant_director",
+            "title": "Assistant Director"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 11,
+        "fields": {
+            "code": "camera_department",
+            "title": "Camera Department"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 12,
+        "fields": {
+            "code": "casting_department",
+            "title": "Casting Department"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 13,
+        "fields": {
+            "code": "casting_director",
+            "title": "Casting Director"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 14,
+        "fields": {
+            "code": "choreographer",
+            "title": "Choreographer"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 15,
+        "fields": {
+            "code": "cinematographer",
+            "title": "Cinematographer"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 16,
+        "fields": {
+            "code": "composer",
+            "title": "Composer"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 17,
+        "fields": {
+            "code": "costume_department",
+            "title": "Costume Department"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 18,
+        "fields": {
+            "code": "costume_designer",
+            "title": "Costume Designer"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 19,
+        "fields": {
+            "code": "director",
+            "title": "Director"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 20,
+        "fields": {
+            "code": "editor",
+            "title": "Editor"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 21,
+        "fields": {
+            "code": "editorial_department",
+            "title": "Editorial Department"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 22,
+        "fields": {
+            "code": "electrical_department",
+            "title": "Electrical Department"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 23,
+        "fields": {
+            "code": "executive",
+            "title": "Executive"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 24,
+        "fields": {
+            "code": "legal",
+            "title": "Legal"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 25,
+        "fields": {
+            "code": "location_management",
+            "title": "Location Management"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 26,
+        "fields": {
+            "code": "make_up_department",
+            "title": "Make Up Department"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 27,
+        "fields": {
+            "code": "manager",
+            "title": "Manager"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 28,
+        "fields": {
+            "code": "miscellaneous",
+            "title": "Miscellaneous"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 29,
+        "fields": {
+            "code": "music_artist",
+            "title": "Music Artist"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 30,
+        "fields": {
+            "code": "music_department",
+            "title": "Music Department"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 31,
+        "fields": {
+            "code": "podcaster",
+            "title": "Podcaster"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 32,
+        "fields": {
+            "code": "producer",
+            "title": "Producer"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 33,
+        "fields": {
+            "code": "production_department",
+            "title": "Production Department"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 34,
+        "fields": {
+            "code": "production_designer",
+            "title": "Production Designer"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 35,
+        "fields": {
+            "code": "production_manager",
+            "title": "Production Manager"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 36,
+        "fields": {
+            "code": "publicist",
+            "title": "Publicist"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 37,
+        "fields": {
+            "code": "script_department",
+            "title": "Script Department"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 38,
+        "fields": {
+            "code": "set_decorator",
+            "title": "Set Decorator"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 39,
+        "fields": {
+            "code": "sound_department",
+            "title": "Sound Department"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 40,
+        "fields": {
+            "code": "soundtrack",
+            "title": "Soundtrack"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 41,
+        "fields": {
+            "code": "special_effects",
+            "title": "Special Effects"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 42,
+        "fields": {
+            "code": "stunts",
+            "title": "Stunts"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 43,
+        "fields": {
+            "code": "talent_agent",
+            "title": "Talent Agent"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 44,
+        "fields": {
+            "code": "transportation_department",
+            "title": "Transportation Department"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 45,
+        "fields": {
+            "code": "visual_effects",
+            "title": "Visual Effects"
+        }
+    },
+    {
+        "model": "imdb.profession",
+        "pk": 46,
+        "fields": {
+            "code": "writer",
+            "title": "Writer"
+        }
+    }
+]

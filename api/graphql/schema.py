@@ -1,7 +1,7 @@
 import graphene
 from apps.imdb.views.graphql import *
 
-class Query(IMDBQuery, graphene.ObjectType):
+class Query(graphene.ObjectType):
     pass
 
 schema = graphene.Schema(query=Query)

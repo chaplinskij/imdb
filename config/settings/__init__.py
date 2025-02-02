@@ -1,8 +1,8 @@
-from main.settings.drf import *
-from main.settings.general import *
-from main.settings.graphql import *
+from config.settings.drf import *
+from config.settings.general import *
+from config.settings.graphql import *
 
 try:
-    from main.settings.local import *
+    from config.settings.local import *
 except:
     print("Can't read from local settings")

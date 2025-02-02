@@ -16,7 +16,6 @@ Including another URLconf
 """
 from django.urls import path, include
 from django.contrib import admin
-from django.conf.urls import url
 from api.drf import urls as drf_urls
 from api.graphql import schema
 from graphene_django.views import GraphQLView
